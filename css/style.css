@@ -1,0 +1,20 @@
+h1,h2{
+    font-family : Helvetica sans-serif;
+    text-align: center;
+}
+h1.logo{
+    font-family : Helvetica sans-serif;
+    color: orange;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+}
+
+.center{
+    display: block;
+    text-align: center;
+}
